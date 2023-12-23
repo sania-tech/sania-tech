@@ -2,7 +2,7 @@
   <img width="100%" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Banner">
 </div>
 <h1 align="center">Hi there 👋, I'm Sania Sohail</h1>
-<h3 align="center">A dynamic and driven 2nd-year computer science student specializing in AI and Data Science.</h3>
+<h3 align="center">A dynamic and driven computer science student specializing in AI and Data Science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sania-tech&label=Profile%20views&color=0e75b6&style=flat" alt="sania-tech" /> </p>
 
